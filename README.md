@@ -166,7 +166,7 @@ GitHub: [@Can1491](https://github.com/Can1491)
 ## 🐍 GitHub Aktivitesi
 
 <p align="center">
-  <img src="https://Can1491.github.io/Can1491/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/Can1491/Can1491/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ⭐ Profilimi ziyaret ettiğin için teşekkürler!
