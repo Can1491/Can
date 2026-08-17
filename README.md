@@ -80,24 +80,17 @@ Java, Python ve C++ başta olmak üzere farklı programlama dilleriyle projeler 
 
 ## 🛠️ Teknolojiler
 
-### Programlama Dilleri
-
-- ☕ Java
-- 🐍 Python
-- ⚙️ C++
-- 💻 C#
-- 🌐 JavaScript
-
-### Teknolojiler & Araçlar
-
-- 🗄️ SQL
-- 🔧 Git
-- 🐙 GitHub
-- 🐳 Docker
-- 🎮 Pygame
-- 🖥️ Tkinter
-
----
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+</p>
 
 ## 📚 Üzerinde Çalıştığım Alanlar
 
