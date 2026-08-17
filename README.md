@@ -143,4 +143,12 @@ Profilimde ayrıca farklı programlama dillerini ve temel yazılım geliştirme 
 
 ---
 
+## 📊 GitHub İstatistikleri
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Can1491&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Can1491&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
 ⭐ Projelerimi incelemek için repository'lerime göz atabilirsiniz.
