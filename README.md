@@ -1,11 +1,8 @@
-# 👋 Merhaba, ben Can
+# 👋 Merhaba, Ben Can!
 
-💻 **Software Developer**
+💻 Yazılım geliştirmeye ve yeni teknolojiler öğrenmeye ilgi duyan bir geliştiriciyim.
 
-Java, Python ve C++ ile projeler geliştiriyorum.  
-Algoritmalar, simülasyon sistemleri, oyun geliştirme ve yazılım mimarisi üzerine çalışıyorum.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Can1491-181717?style=for-the-badge&logo=github)](https://github.com/Can1491)
+Java, Python ve C++ başta olmak üzere farklı programlama dilleriyle projeler geliştiriyorum. Özellikle algoritma, oyun geliştirme, simülasyon, veri işleme ve yazılım mimarisi üzerine kendimi geliştirmeye çalışıyorum.
 
 ---
 
@@ -13,142 +10,139 @@ Algoritmalar, simülasyon sistemleri, oyun geliştirme ve yazılım mimarisi üz
 
 ### 🛰️ Autonomous Mission Simulator
 
-**C++**
+**C++** ile geliştirilmiş otonom görev planlama ve telemetri simülatörü.
 
-Otonom görev planlama ve telemetri simülasyonu.
-
-- 🧭 Rota hesaplama
+- 🗺️ Harita üzerinde görev planlama
+- 🧭 Otonom rota hesaplama
 - 🚧 Engel algılama
-- 🧠 Pathfinding algoritması
-- 🎯 Görev planlama
+- 📍 Başlangıç ve hedef koordinatları
 - 📡 Telemetri sistemi
-- 🔋 Batarya simülasyonu
+- 🔋 Batarya takibi
 - 🌡️ Sıcaklık ve ivme verileri
-- 📝 Telemetri loglama
+- 📝 Telemetri kayıt sistemi
+- 🧠 Pathfinding algoritması
+- 📊 Görev özeti ve durum takibi
 
-[![View Project](https://img.shields.io/badge/View%20Project-Autonomous%20Mission%20Simulator-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/Can1491/Autonomous-Mission-Simulator)
+🔗 [Projeyi İncele](https://github.com/Can1491/Autonomous-Mission-Simulator)
 
 ---
 
 ### 🏦 Banka Uygulaması
 
-**Java**
+**Java** ile geliştirilmiş banka uygulaması.
 
-Temel bankacılık işlemlerini simüle eden Java konsol uygulaması.
+- 👤 Kullanıcı işlemleri
+- 💰 Bakiye yönetimi
+- 💳 Bankacılık işlemleri
+- 🔐 Kullanıcı doğrulama
+- 🧩 Nesne yönelimli programlama
 
-- 🔐 Kullanıcı giriş sistemi
-- 🔑 Şifre kontrolü
-- 🚫 3 hatalı giriş sonrası hesap bloke
-- 💰 Bakiye görüntüleme
-- ➕ Para yatırma
-- ➖ Para çekme
-- ⚠️ Bakiye kontrolü
-
-[![View Project](https://img.shields.io/badge/View%20Project-Banka%20Uygulamasi-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Can1491/Banka_uygulamasi)
+🔗 [GitHub Profilimde İncele](https://github.com/Can1491)
 
 ---
 
-### ⚔️ Dungeon
+### ⚔️ Dungeon – Zindan Savaşları
 
-**Java**
-
-Java ile geliştirilmiş zindan savaşları oyunu.
+**Java** ile geliştirilmiş konsol tabanlı RPG savaş oyunu.
 
 - ⚔️ Savaş sistemi
+- 👹 Normal düşmanlar
 - 👑 Boss sistemi
-- 🗡️ Silah sistemi
+- 🗡️ Silah geliştirme
 - 🛡️ Zırh sistemi
 - 🧪 İksir sistemi
-- 👹 Rastgele düşman sistemi
-- 🎁 Loot sistemi
-- 🎲 Rastgele oyun mekanikleri
+- 🎲 Rastgele hasar ve loot sistemi
+- 📈 İlerleme sistemi
 
-[![View Project](https://img.shields.io/badge/View%20Project-Dungeon-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Can1491/Dungeon)
+🔗 [GitHub Profilimde İncele](https://github.com/Can1491)
 
 ---
 
-### 🧠 Milyoner
+### 🎮 Milyoner
 
-**Python / Pygame**
+**Python + Pygame** kullanılarak geliştirilmiş bilgi yarışması oyunu.
 
-Grafik arayüze sahip bilgi yarışması oyunu.
-
-- 🎮 Pygame grafik arayüzü
+- ❓ Çoktan seçmeli sorular
 - 💰 Para ağacı
 - ❤️ Can sistemi
-- 🎲 Rastgele soru sistemi
-- ✂️ 50/50 jokeri
+- 50/50 jokeri
 - 👥 Seyirci jokeri
-- 🏆 Kazanma ve kaybetme sistemi
+- 🎨 Grafiksel kullanıcı arayüzü
+- 🏆 Kazanma ve kaybetme ekranları
 
-[![View Project](https://img.shields.io/badge/View%20Project-Milyoner-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Can1491/Milyoner)
+🔗 [GitHub Profilimde İncele](https://github.com/Can1491)
 
 ---
 
 ## 🛠️ Teknolojiler
 
-### 💻 Programlama Dilleri
+### Programlama Dilleri
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+- ☕ Java
+- 🐍 Python
+- ⚙️ C++
+- 💻 C#
+- 🌐 JavaScript
 
-### 🎮 Framework & Libraries
+### Teknolojiler & Araçlar
 
-![Pygame](https://img.shields.io/badge/Pygame-333333?style=for-the-badge&logo=python&logoColor=white)
-
-### 🔧 Araçlar
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📚 Şu Anda Öğreniyorum
-
-- C++ ile algoritma ve sistem geliştirme
-- Veri yapıları ve algoritmalar
-- Yazılım mimarisi
-- Simülasyon sistemleri
-- Otonom sistemler
-- Daha büyük ölçekli projeler
+- 🗄️ SQL
+- 🔧 Git
+- 🐙 GitHub
+- 🐳 Docker
+- 🎮 Pygame
+- 🖥️ Tkinter
 
 ---
 
-## 🎯 İlgi Alanlarım
+## 📚 Üzerinde Çalıştığım Alanlar
 
-- 🧠 Algoritmalar
-- 🛰️ Otonom sistemler
-- 📡 Telemetri ve simülasyon
+- 🧠 Algoritmalar ve veri yapıları
+- ⚙️ C++ geliştirme
+- 🛰️ Simülasyon sistemleri
+- 📡 Telemetri ve veri işleme
+- 🗄️ Veritabanı sistemleri
+- 🔐 Siber güvenlik
 - 🎮 Oyun geliştirme
-- 💻 Yazılım geliştirme
 - 🏗️ Yazılım mimarisi
+- 🧪 Problem çözme
 
 ---
 
 ## 🎯 Hedefim
 
-Gerçek dünya problemlerine yönelik daha kapsamlı yazılım projeleri geliştirerek algoritma, yazılım mimarisi ve sistem geliştirme alanlarında kendimi geliştirmek.
+Yazılım geliştirme alanında kendimi sürekli geliştirerek;
 
-Özellikle **C++, Java ve Python** kullanarak daha büyük ve gerçek dünya problemlerini modelleyen projeler geliştirmeyi hedefliyorum.
+- güçlü algoritma bilgisi,
+- temiz ve sürdürülebilir kod,
+- nesne yönelimli programlama,
+- veritabanı kullanımı,
+- sistem tasarımı
+- ve gerçek dünya problemlerine yönelik projeler
 
----
+konularında kendimi geliştirmek.
 
-## 📂 Diğer Projeler
-
-Profilimde ayrıca farklı programlama dillerini ve temel yazılım geliştirme becerilerimi geliştirmek amacıyla oluşturduğum çeşitli projeler bulunmaktadır.
-
-🔗 [Tüm projelerimi görüntüle](https://github.com/Can1491?tab=repositories)
-
----
-
-## 📊 GitHub İstatistikleri
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Can1491&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Can1491&layout=compact&theme=github_dark&hide_border=true&count_private=true)
+Özellikle **C++, Java ve Python** kullanarak daha kapsamlı ve profesyonel projeler geliştirmeye devam ediyorum.
 
 ---
 
-⭐ Projelerimi incelemek için repository'lerime göz atabilirsiniz.
+## 📊 GitHub
+
+GitHub profilimde Java, Python ve C++ kullanarak geliştirdiğim çeşitli projeler bulunmaktadır.
+
+- ☕ **Java** — Oyunlar ve uygulamalar
+- 🐍 **Python** — GUI ve oyun geliştirme
+- ⚙️ **C++** — Otonom görev simülasyonu ve telemetri
+- 🗄️ **SQL** — Veri yönetimi ve kayıt sistemleri
+
+📁 [Tüm Repository'lerimi Görüntüle](https://github.com/Can1491?tab=repositories)
+
+---
+
+## 📫 İletişim
+
+GitHub: [@Can1491](https://github.com/Can1491)
+
+---
+
+⭐ Profilimi ziyaret ettiğin için teşekkürler!
