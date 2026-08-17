@@ -160,7 +160,7 @@ GitHub profilimde farklı programlama dilleri ve teknolojiler kullanarak gelişt
 ## 🐍 GitHub Aktivitesi
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Can1491/Can1491/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+  <img src="https://raw.githubusercontent.com/Can1491/Can/refs/heads/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
 
 ---
