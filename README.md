@@ -175,11 +175,7 @@ GitHub profilimde farklı programlama dilleri ve teknolojiler kullanarak gelişt
   <a href="https://github.com/Can1491">
     <img src="https://img.shields.io/badge/GitHub-Can1491-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:can@example.com">
-    <img src="https://img.shields.io/badge/Email-İletişime%20Geç-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
+  
 ---
 
 ⭐ Profilimi ziyaret ettiğin için teşekkürler!
