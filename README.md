@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jpg" width="100%">
+  <img src="./banner.jpg" width="100%" alt="Can GitHub Banner">
 </p>
 
 # 👋 Merhaba, Ben Can!
@@ -157,16 +157,18 @@ GitHub profilimde farklı programlama dilleri ve teknolojiler kullanarak gelişt
 
 ---
 
+## 🐍 GitHub Aktivitesi
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Can1491/Can1491/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</p>
+
+---
+
 ## 📫 İletişim
 
 GitHub: [@Can1491](https://github.com/Can1491)
 
 ---
-
-## 🐍 GitHub Aktivitesi
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Can1491/Can1491/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
 
 ⭐ Profilimi ziyaret ettiğin için teşekkürler!
