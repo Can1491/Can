@@ -12,38 +12,54 @@ Java, Python ve C++ başta olmak üzere farklı programlama dilleriyle projeler 
 
 ## 🚀 Öne Çıkan Projeler
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🛰️ Autonomous Mission Simulator
 
 **C++** ile geliştirilmiş otonom görev planlama ve telemetri simülatörü.
 
-- 🗺️ Harita üzerinde görev planlama
 - 🧭 Otonom rota hesaplama
+- 🗺️ Harita ve koordinat sistemi
 - 🚧 Engel algılama
-- 📍 Başlangıç ve hedef koordinatları
 - 📡 Telemetri sistemi
 - 🔋 Batarya takibi
 - 🌡️ Sıcaklık ve ivme verileri
-- 📝 Telemetri kayıt sistemi
+- 📝 `telemetry.log` kayıt sistemi
 - 🧠 Pathfinding algoritması
 - 📊 Görev özeti ve durum takibi
 
-🔗 [Projeyi İncele](https://github.com/Can1491/Autonomous-Mission-Simulator)
+<a href="https://github.com/Can1491/Autonomous-Mission-Simulator">
+  🔗 Projeyi İncele
+</a>
 
----
+</td>
 
-### 🏦 Banka Uygulaması
+<td width="50%">
 
-**Java** ile geliştirilmiş banka uygulaması.
+### 🎮 Milyoner
 
-- 👤 Kullanıcı işlemleri
-- 💰 Bakiye yönetimi
-- 💳 Bankacılık işlemleri
-- 🔐 Kullanıcı doğrulama
-- 🧩 Nesne yönelimli programlama
+**Python + Pygame** ile geliştirilmiş bilgi yarışması oyunu.
 
-🔗 [GitHub Profilimde İncele](https://github.com/Can1491)
+- ❓ Çoktan seçmeli sorular
+- 💰 Para ağacı sistemi
+- ❤️ Can sistemi
+- 5️⃣0️⃣/5️⃣0️⃣ jokeri
+- 👥 Seyirci jokeri
+- 🎨 Grafiksel kullanıcı arayüzü
+- 🏆 Kazanma ve kaybetme ekranları
+- 🔀 Rastgele soru sistemi
 
----
+<a href="https://github.com/Can1491">
+  🔗 Projeyi İncele
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### ⚔️ Dungeon – Zindan Savaşları
 
@@ -55,26 +71,36 @@ Java, Python ve C++ başta olmak üzere farklı programlama dilleriyle projeler 
 - 🗡️ Silah geliştirme
 - 🛡️ Zırh sistemi
 - 🧪 İksir sistemi
-- 🎲 Rastgele hasar ve loot sistemi
+- 🎲 Rastgele hasar sistemi
+- 🎁 Loot sistemi
 - 📈 İlerleme sistemi
 
-🔗 [GitHub Profilimde İncele](https://github.com/Can1491)
+<a href="https://github.com/Can1491">
+  🔗 Projeyi İncele
+</a>
 
----
+</td>
 
-### 🎮 Milyoner
+<td width="50%">
 
-**Python + Pygame** kullanılarak geliştirilmiş bilgi yarışması oyunu.
+### 🏦 Banka Uygulaması
 
-- ❓ Çoktan seçmeli sorular
-- 💰 Para ağacı
-- ❤️ Can sistemi
-- 50/50 jokeri
-- 👥 Seyirci jokeri
-- 🎨 Grafiksel kullanıcı arayüzü
-- 🏆 Kazanma ve kaybetme ekranları
+**Java** ile geliştirilmiş banka uygulaması.
 
-🔗 [GitHub Profilimde İncele](https://github.com/Can1491)
+- 👤 Kullanıcı işlemleri
+- 💰 Bakiye yönetimi
+- 💳 Bankacılık işlemleri
+- 🔐 Kullanıcı doğrulama
+- 🧩 Nesne yönelimli programlama
+- 📊 Hesap yönetimi
+
+<a href="https://github.com/Can1491">
+  🔗 Projeyi İncele
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -92,32 +118,27 @@ Java, Python ve C++ başta olmak üzere farklı programlama dilleriyle projeler 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
 </p>
 
+---
+
 ## 📚 Üzerinde Çalıştığım Alanlar
 
 - 🧠 Algoritmalar ve veri yapıları
 - ⚙️ C++ geliştirme
+- ☕ Java geliştirme
+- 🐍 Python geliştirme
 - 🛰️ Simülasyon sistemleri
 - 📡 Telemetri ve veri işleme
 - 🗄️ Veritabanı sistemleri
-- 🔐 Siber güvenlik
 - 🎮 Oyun geliştirme
 - 🏗️ Yazılım mimarisi
+- 🔐 Siber güvenlik
 - 🧪 Problem çözme
 
 ---
 
 ## 🎯 Hedefim
 
-Yazılım geliştirme alanında kendimi sürekli geliştirerek;
-
-- güçlü algoritma bilgisi,
-- temiz ve sürdürülebilir kod,
-- nesne yönelimli programlama,
-- veritabanı kullanımı,
-- sistem tasarımı
-- ve gerçek dünya problemlerine yönelik projeler
-
-konularında kendimi geliştirmek.
+Yazılım geliştirme alanında kendimi sürekli geliştirerek; algoritmalar, nesne yönelimli programlama, veritabanları, sistem tasarımı ve gerçek dünya problemlerine yönelik projeler konusunda ilerlemek.
 
 Özellikle **C++, Java ve Python** kullanarak daha kapsamlı ve profesyonel projeler geliştirmeye devam ediyorum.
 
@@ -125,12 +146,12 @@ konularında kendimi geliştirmek.
 
 ## 📊 GitHub
 
-GitHub profilimde Java, Python ve C++ kullanarak geliştirdiğim çeşitli projeler bulunmaktadır.
+GitHub profilimde farklı programlama dilleri ve teknolojiler kullanarak geliştirdiğim çeşitli projeler bulunmaktadır.
 
 - ☕ **Java** — Oyunlar ve uygulamalar
 - 🐍 **Python** — GUI ve oyun geliştirme
 - ⚙️ **C++** — Otonom görev simülasyonu ve telemetri
-- 🗄️ **SQL** — Veri yönetimi ve kayıt sistemleri
+- 🗄️ **SQL** — Veri yönetimi
 
 📁 [Tüm Repository'lerimi Görüntüle](https://github.com/Can1491?tab=repositories)
 
