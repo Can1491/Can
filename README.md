@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" width="100%">
+</p>
+
 # 👋 Merhaba, Ben Can!
 
 💻 Yazılım geliştirmeye ve yeni teknolojiler öğrenmeye ilgi duyan bir geliştiriciyim.
